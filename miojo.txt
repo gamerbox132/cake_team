@@ -1,6 +1,7 @@
-🍜 miojo Fácil
+🍜 Miojo Fácil
 ----------------
 📝 Ingredientes
+
 1 Miojo;
 1 Panela pequena;
 30 ml de água;
@@ -9,10 +10,9 @@ Tempero de miojo;
 1 tomate picado;
 3 g de pimenta;
 
-
-
 ----------------
 👨‍🍳 Modo de Preparo
+
 Despeje o miojo na panela.
 Adicione 20 ml de água.
 Leve ao fogo e aguarde aproximadamente 5 minutos.
